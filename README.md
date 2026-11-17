@@ -1,4 +1,4 @@
-# chatterbox-voice-trainer
+# chatterbox-voice-clone-trainer
 
 A small, readable template for fine-tuning the **T3** text-to-speech-token model of
 [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) on **your own voice**, on a free Kaggle (or any CUDA) GPU.
